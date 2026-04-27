@@ -8,7 +8,6 @@ __pycache__/
 *.pyc
 
 # Large Data Files
-Train.csv
 Test.csv
 SampleSubmission.csv
 

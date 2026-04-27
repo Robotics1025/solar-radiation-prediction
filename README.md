@@ -4,13 +4,13 @@ This repository contains our coursework implementation for interpreting Machine 
 
 ## 👥 Group Members
 
-| Name | Registration Number |
-|------|---------------------|
-| Kigozi Allan | 2400725792 |
-| Keith Paul Kato | 2400726593 |
-| Mugole Joel | 2400707060 |
-| Nalubega Shadiah | 2400708715 |
-| Ageno Elizabeth | 2400725850 |
+| Name | Email | Registration Number |
+|------|-------|---------------------|
+| Kigozi Allan | chigozieallanie@gmail.com | 24/U/25792/PS |
+| Keith Paul Kato | keithpaulkato@gmail.com | 24/U/26593/EVE |
+| Mugole Joel | joelmugole74@gmail.com | 24/U/07060/EVE |
+| Nalubega Shadiah | shadiaahmed1302@gmail.com | 24/U/08715/EVE |
+| Ageno Elizabeth | [EMAIL_ADDRESS] | 24/U/25850/EVE |
 
 ## 📓 The Notebook & Pipeline
 
