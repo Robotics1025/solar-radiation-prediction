@@ -1,0 +1,16 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Large Data Files
+Train.csv
+Test.csv
+SampleSubmission.csv
+
+# Jupyter Notebook Cache
+.ipynb_checkpoints/
